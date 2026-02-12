@@ -15,14 +15,9 @@ Unzip and run the included executable/installer (depending on the package conten
 
 > The following images are stored in the repository under `docs/`.
 
-**Start menu**  
-![Start menu](docs/start_menu.png)
-
-**Login**  
-![Login](docs/login.png)
-
-**Register**  
-![Register](docs/register.png)
+| Start menu | Login | Register |
+|---|---|---|
+| <img src="docs/start_menu.png" width="260" /> | <img src="docs/login.png" width="260" /> | <img src="docs/register.png" width="260" /> |
 
 **Gameplay (question screen)**  
 ![Gameplay](docs/game.png)
