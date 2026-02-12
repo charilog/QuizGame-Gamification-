@@ -51,22 +51,6 @@ Unzip and run the included executable/installer (depending on the package conten
   - Quiz sets stored in a local database (commonly SQLite in desktop setups).
   - Easy to expand with new subjects, quizzes, and question banks.
 
-## Repository Structure (suggested)
-
-- `docs/`  
-  Screenshots used by this README.
-- `assets/` or `images/`  
-  Application images and per-question illustrations (if included in the repo).
-- `db/` or `data/`  
-  Database files / SQL initialization scripts (if included in the repo).
-- `src/`  
-  Application source code (if the repo contains the full project).
-
-## Using Question Images (recommended)
-
-- Keep question images in a dedicated folder (e.g., `images/`).
-- Store only the **filename** (or a relative path like `images/my_image.png`) in the question record.
-- Do **not** embed question text or answers in the image. The UI should render text; images should be purely illustrative.
 
 ## Build from Source (if the repository includes code)
 
